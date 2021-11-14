@@ -1,2 +1,3 @@
+**DIO - Take Blip Fullstack Developer #2 🤖**
 
-# Cad.superflix
+## Cadastros básico de séries 🍿
