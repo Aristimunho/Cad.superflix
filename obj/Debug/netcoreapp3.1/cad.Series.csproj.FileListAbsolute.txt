@@ -1,0 +1,28 @@
+C:\Users\Abraão\Desktop\fIRST PROJECT\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\cad.Series.exe
+C:\Users\Abraão\Desktop\fIRST PROJECT\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\cad.Series.deps.json
+C:\Users\Abraão\Desktop\fIRST PROJECT\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\cad.Series.runtimeconfig.json
+C:\Users\Abraão\Desktop\fIRST PROJECT\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\cad.Series.runtimeconfig.dev.json
+C:\Users\Abraão\Desktop\fIRST PROJECT\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\cad.Series.dll
+C:\Users\Abraão\Desktop\fIRST PROJECT\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\cad.Series.pdb
+C:\Users\Abraão\Desktop\fIRST PROJECT\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\cad.Series.csproj.AssemblyReference.cache
+C:\Users\Abraão\Desktop\fIRST PROJECT\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\cad.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abraão\Desktop\fIRST PROJECT\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\cad.Series.AssemblyInfoInputs.cache
+C:\Users\Abraão\Desktop\fIRST PROJECT\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\cad.Series.AssemblyInfo.cs
+C:\Users\Abraão\Desktop\fIRST PROJECT\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\cad.Series.csproj.CoreCompileInputs.cache
+C:\Users\Abraão\Desktop\fIRST PROJECT\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\cad.Series.dll
+C:\Users\Abraão\Desktop\fIRST PROJECT\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\cad.Series.pdb
+C:\Users\Abraão\Desktop\fIRST PROJECT\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\cad.Series.genruntimeconfig.cache
+C:\Users\Abraão\Desktop\cadastro.superflix\bin\Debug\netcoreapp3.1\cad.Series.exe
+C:\Users\Abraão\Desktop\cadastro.superflix\bin\Debug\netcoreapp3.1\cad.Series.deps.json
+C:\Users\Abraão\Desktop\cadastro.superflix\bin\Debug\netcoreapp3.1\cad.Series.runtimeconfig.json
+C:\Users\Abraão\Desktop\cadastro.superflix\bin\Debug\netcoreapp3.1\cad.Series.runtimeconfig.dev.json
+C:\Users\Abraão\Desktop\cadastro.superflix\bin\Debug\netcoreapp3.1\cad.Series.dll
+C:\Users\Abraão\Desktop\cadastro.superflix\bin\Debug\netcoreapp3.1\cad.Series.pdb
+C:\Users\Abraão\Desktop\cadastro.superflix\obj\Debug\netcoreapp3.1\cad.Series.csproj.AssemblyReference.cache
+C:\Users\Abraão\Desktop\cadastro.superflix\obj\Debug\netcoreapp3.1\cad.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abraão\Desktop\cadastro.superflix\obj\Debug\netcoreapp3.1\cad.Series.AssemblyInfoInputs.cache
+C:\Users\Abraão\Desktop\cadastro.superflix\obj\Debug\netcoreapp3.1\cad.Series.AssemblyInfo.cs
+C:\Users\Abraão\Desktop\cadastro.superflix\obj\Debug\netcoreapp3.1\cad.Series.csproj.CoreCompileInputs.cache
+C:\Users\Abraão\Desktop\cadastro.superflix\obj\Debug\netcoreapp3.1\cad.Series.dll
+C:\Users\Abraão\Desktop\cadastro.superflix\obj\Debug\netcoreapp3.1\cad.Series.pdb
+C:\Users\Abraão\Desktop\cadastro.superflix\obj\Debug\netcoreapp3.1\cad.Series.genruntimeconfig.cache
