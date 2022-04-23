@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x+t0nvoGrBkG1447jNzOWYIDeiek44frAzid80/IoCg9UH11+0ZDaGFZmp0hYr0v0i1C7S+TL3vkl6g5uOvw6g==",
+  "dgSpecHash": "mvbSQ6lt36dJfDbXVSYbWjKm13lzONABJGbm4JYROiOOKqPZHf82LvNbxhspJV/8e8QkIeP3Yuu6oaRmqFevjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Abraão\\Desktop\\cadastro.superflix\\cad.Series.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Abraão\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Abraão\\Desktop\\Projetos\\Softwares\\cadastro.superflix\\cad.Series.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
