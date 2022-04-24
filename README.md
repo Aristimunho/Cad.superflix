@@ -1,6 +1,6 @@
-<h2>Cadastros de séries 🍿</h2>
+<h2>Cadastros de séries 🍿</h2> <img src="./imagesReadMe/dio.png">
 
-Este é um sistema de cadastro  e atualização de séries  desenvolvido no Boot Camp **Take Blip Fullstack Developer🤖** da DIO. 
+Este é um sistema de cadastro  e atualização de séries  desenvolvido no Boot Camp **Take Blip Fullstack Developer🤖** da Digital Innovation One. 
 
 ------
 
